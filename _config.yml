@@ -9,7 +9,7 @@
 title                    : "Sihan Wang"
 description              : "I am currently a fourth-year undergraduate student of School of Mathematics of USTC (University of Science and Technology of China). "
 repository               : "UmberllaSansan/sihanw.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
