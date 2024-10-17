@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Sihan Wang"
   avatar           : "images/redketchup/android-chrome-512x512.png"
-  bio              : "USTC <a href="CV.pdf">CV</a>
+  bio              : "CV.pdf"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           : 
