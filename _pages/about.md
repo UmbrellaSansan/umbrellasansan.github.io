@@ -23,7 +23,7 @@ My research interest includes optimization and operations research. I'm currentl
 
 
 # 🔥 News
-- I'm actively applying for PhD positions for 2025! 😼
+- I'm actively applying for PhD position for 2025! 😼
 
 # 📝 Preprints and Working Papers 
 
