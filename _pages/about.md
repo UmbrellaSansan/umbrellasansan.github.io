@@ -27,11 +27,8 @@ My research interest includes optimization and operations research. I'm currentl
 
 # 📝 Preprints and Working Papers 
 
-[Privacy-Enhanced Methods for the Predict-then-Optimize Framework](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Privacy-Enhanced Methods for the Predict-then-Optimize Framework](Privacy_SPO.pdf)
 
 **Coauthors**, Hanzhang Qin
 
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
