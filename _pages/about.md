@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Sihan Wang"
+excerpt: "I am "
 author_profile: true
 redirect_from: 
   - /about/
