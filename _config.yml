@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Sihan Wang"
 description              : "I am currently a fourth-year undergraduate student of School of Mathematics of USTC (University of Science and Technology of China). "
-repository               : "UmberllaSansan/sihanw.github.io"
+repository               : "UmberllaSansan/umbrellasansan.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sihan Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/redketchup/android-chrome-512x512.png"
   bio              : "USTC"
   location         : "Hefei, Anhui, China"
   employer         :
