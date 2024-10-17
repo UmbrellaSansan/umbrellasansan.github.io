@@ -23,8 +23,7 @@ My research interest includes optimization and operations research. I'm currentl
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- I'm actively applying for PhD positions for 2025!😼
 
 # 📝 Preprints and Working Papers 
 
