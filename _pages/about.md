@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there! 👋 I am currently a fourth-year undergraduate student of the School of Mathematics of <a href="https://www.ustc.edu.cn">University of Science and Technology of China</a> and also a visiting student in <a href="https://nus.edu.sg">National University of Singapore</a> under the supervision of <a href="https://hanzhangqin.com">Prof. Hanzhang Qin</a>.
 
-My research interest includes optimization and operations research. I'm currently working on projects related to Smart Predict-then-Optimize and Large Language Models (LLMs). You can find my CV here: [Sihan Wang](CV.pdf)
+My research interest includes optimization and operations research. I'm currently working on projects related to Smart Predict-then-Optimize and Large Language Models (LLMs). You can find more details here: [CV](CV.pdf)
 
 
 # 🔥 News
